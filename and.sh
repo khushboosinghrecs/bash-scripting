@@ -2,7 +2,7 @@
 age=19
 if [[ age -gt 20 && age -lt 30 ]]
 then
- echo "valid age"
+ echo " its valid age"
 else 
-echo "invalid age"
+echo " its invalid age"
 fi
